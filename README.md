@@ -1,4 +1,4 @@
-## Hi there 👋
+## This is a static site providing a searchable library of some mechanisms required by C++ in [CppMeks](https://github.com/CppMeks). 
 
 <!--
 **CppMeks/CppMeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
